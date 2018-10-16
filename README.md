@@ -13,3 +13,6 @@ For body we use the monocular camera to get the whole body picture then we use t
 # Keep-it-Total-capture model
 We modified the model of mano+hand(http://mano.is.tue.mpg.de/) by stiching (replacing) the head (http://flame.is.tue.mpg.de/) of it.
 Making the model omnipotence .
+
+# Transferring
+For transferring the identity of body , head and hands we used the Deformation-transfer & sdt algorithms .For more details , the paper for this project is coming soon. 
