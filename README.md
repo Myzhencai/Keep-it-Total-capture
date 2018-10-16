@@ -10,5 +10,6 @@ For hand we use the special designed monocular cameras to get right and left han
 # Body
 For body we use the monocular camera to get the whole body picture then we use the deeplearning to get the 91 keypoints to get the shape of the whole body . The body model comes from the project :http://files.is.tuebingen.mpg.de/classner/up/ .
 
-# Keep-it-Keep-it-Total-capture model
+# Keep-it-Total-capture model
 We modified the model of mano+hand(http://mano.is.tue.mpg.de/) by stiching (replacing) the head (http://flame.is.tue.mpg.de/) of it.
+Making the model omnipotence .
