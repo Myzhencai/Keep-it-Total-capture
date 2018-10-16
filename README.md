@@ -15,4 +15,4 @@ We modified the model of mano+hand (http://mano.is.tue.mpg.de/) by stiching (rep
 Making the model omnipotence .
 
 # Transferring
-For transferring the identity of body , head and hands we used the Deformation-transfer & sdt algorithms .For more details , the paper for this project is coming soon. 
+For transferring the identity of body , head and hands we used the Deformation-transfer & sdt algorithms .For more details , the paper and code for this project is coming soon. 
