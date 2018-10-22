@@ -4,7 +4,7 @@ This repo provide a way to get the same result of Total Capture: A 3D Deformatio
 # Head
 For head we use the  monocular camera to get the 3D keypoints of face (https://github.com/Myzhencai/2D-and-3D-face-alignment) , to make the 3D keypoints to the headmesh we used the model (http://flame.is.tue.mpg.de/). By the way , you need to register for the model.
 The result(can be modified fantastic,this is just a demo) should be like this:
-<p align="center"><img src="Vedio/head.gif" align="center" width=auto height=auto/></p>
+<p align="center"><img src="Vedio/face.gif" align="center" width=auto height=auto/></p>
 
 # Hand
 For hand we use the special designed monocular cameras to get right and left hand 3D positions of every keypoint .Thanks for Franziska Mueller (https://people.mpi-inf.mpg.de/%7Efrmueller/) share the code for getting the key points . You sir/madam can get the model by applying here (https://handtracker.mpi-inf.mpg.de/projects/GANeratedHands/) ,sending email to her . By the way , please follow the license of the project：GANerated Hands for Real-Time 3D Hand Tracking from Monocular RGB .
